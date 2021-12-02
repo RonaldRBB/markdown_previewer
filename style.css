@@ -1,0 +1,19 @@
+/* 
+Dark Theme 
+================================================================================
+Dark Bacground and light text.
+*/
+#editor,
+#preview {
+    height: 100vh;
+    max-height: 100vh;
+    overflow: scroll;
+}
+* {
+    color: #fff;
+    background: #121212;
+}
+textarea {
+    color: #fff;
+    background: #121212;
+}
